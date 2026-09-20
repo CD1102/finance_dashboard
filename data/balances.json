@@ -1,0 +1,20 @@
+{
+    "accounts": [
+        {
+            "name": "S&S ISA",
+            "balance": 7500
+        },
+        {
+            "name": "LISA",
+            "balance": 7500
+        },
+        {
+            "name": "Cash ISA",
+            "balance": 9000
+        },
+        {
+            "name": "Pension",
+            "balance": 6000
+        }
+    ]
+}
