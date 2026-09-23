@@ -1,1 +1,11 @@
 .venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.streamlit/secrets.toml
+
+# Real personal financial data — never commit it
+/data/accounts.json
+/data/history.json
+/data/contributions.json
+/data/goals.json

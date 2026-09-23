@@ -1,0 +1,10 @@
+[
+  {
+    "id": "first_home",
+    "name": "First Home",
+    "kind": "accumulation",
+    "target": 70000,
+    "accounts": ["lisa", "cash_isa"],
+    "note": "Example goal"
+  }
+]

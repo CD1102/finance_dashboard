@@ -1,0 +1,34 @@
+{
+  "accounts": [
+    {
+      "id": "ss_isa",
+      "name": "S&S ISA",
+      "type": "investment",
+      "purpose": "long_term_growth",
+      "balance": 0
+    },
+    {
+      "id": "lisa",
+      "name": "LISA",
+      "type": "investment",
+      "purpose": "house_deposit",
+      "balance": 0,
+      "lisa": true
+    },
+    {
+      "id": "cash_isa",
+      "name": "Cash ISA",
+      "type": "cash",
+      "purpose": "house_deposit",
+      "balance": 0
+    },
+    {
+      "id": "pension",
+      "name": "Pension",
+      "type": "pension",
+      "purpose": "retirement",
+      "balance": 0
+    }
+  ],
+  "last_updated": null
+}
